@@ -35,7 +35,8 @@ Les données proviennent de deux liens web, récupérées directement dans Power
 
 Le rapport est disponible au format PDF pour consultation :
 
-[📄 Télécharger le rapport Power BI](./docs/Page BI.pdf)
+[📄 Télécharger le rapport Power BI](https://github.com/GregoryBuriez/projet_velib_live/blob/main/Page%20BI.pdf)
+
 
 > **Note :**  
 > Le rapport Power BI n’est pas actualisé automatiquement pour l’instant.  
